@@ -1,0 +1,1 @@
+const people: [string, number, boolean] = ["Nam", 18, true]
