@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon index.js",
+    "nodemon": "nodemon index.js",
     "ts": "tsc -w index.ts"
   },
   "devDependencies": {
